@@ -31,3 +31,4 @@ jobs:
           context: ./sample-packages/Docker
           push: true
           labels: v1.0
+          tags: user/app:latest
